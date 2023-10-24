@@ -1,0 +1,6 @@
+# cache files
+__pycache__/
+
+# virtualenv folder
+kafka-env/
+
